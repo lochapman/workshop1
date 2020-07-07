@@ -1,11 +1,18 @@
-var firstNum = 14;
-var secNum = 15;
-var sanNum = 1.6;
-var quatroNum = .17;
-//beginning constants
+let firstNum = 14;
+console.log ('firstNum', firstNum);
+let secNum = 15;
+console.log ('secNum', secNum);
+let sanNum = 1.6;
+console.log ('sanNum', sanNum);
+let quatroNum = .17;
+console.log ('quatroNum', quatroNum);
 const cincoDe = 18;
+console.log ('cincoDe', cincoDe);
 const seisY = .019;
+console.log ('seisY', seisY);
 const dreiNum = 0.02;
+console.log ('dreiNum', dreiNum);
 const veiNum = 0.03;
+console.log ('veiNum', veiNum);
 const einesNum = 0.006;
-console.log ('firstNum', 'secNum', 'sanNum', 'quatroNum', 'cincoDe','seisY','dreiNum','veiNum','einesNum' )
+console.log ('einesNum', einesNum);
